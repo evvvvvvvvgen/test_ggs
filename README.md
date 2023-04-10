@@ -7,10 +7,12 @@ mkdir test
 ```
 
 - Create file test1.txt inside the test1 directory.
+```:
+touch test1/test1.txt
+```
 
 
-
--   Create copy of folder test1 with name test2.  
+-   Create copy of folder test1 with name test2. 
 
 -    Delete file test1.txt inside test2 directory.
 
