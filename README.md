@@ -71,6 +71,7 @@ chmod 000 qqq
 
 ```
 rm -rf qq
+```
 
 -    Create simple script which prints current date. Try to execute it.
 
